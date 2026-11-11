@@ -612,7 +612,7 @@ def write_report(res: dict) -> Path:
                      f"{spec['center']} | {spec['high']} | {spec['unit']} |")
     lines += [
         "",
-        f"- Runs: 8 corner treatments x 2 replicates + 4 center points = 20 runs",
+        "- Runs: 8 corner treatments x 2 replicates + 4 center points = 20 runs",
         f"- Responses: first-pass yield (%) and defect count per {UNITS_PER_RUN} units",
         f"- Overall mean yield: {res['runs']['yield_pct'].mean():.2f}% "
         f"(factorial mean {res['mean_factorial']:.2f}%, center mean "
