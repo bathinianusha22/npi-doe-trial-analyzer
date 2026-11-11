@@ -70,7 +70,7 @@ The role's core work maps directly onto this project:
 ## Project structure
 
 ```text
-tesla-npi-doe-trial-analyzer/
+npi-doe-trial-analyzer/
 ├── npi_doe.py                  # the whole tool: generate, analyze, trials
 ├── requirements.txt
 ├── .gitignore
