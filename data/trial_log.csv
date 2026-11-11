@@ -1,0 +1,11 @@
+trial_id,date,line,engineer,objective,status,observations
+NPI-2026-001,2026-09-08,NCM Line 1,M. Okafor,Baseline yield characterization,complete,Baseline first-pass yield 91.8% over 3 shifts; lamination temperature flagged as largest variance source.
+NPI-2026-002,2026-09-22,NCM Line 2,J. Alvarez,New adhesive supplier qualification,complete,Alternate adhesive passed peel test; no yield impact observed. Approved as second source.
+NPI-2026-003,2026-10-05,NCM Line 1,R. Chen,Cure oven profile validation,complete,Oven zone 3 ran 2 degC below setpoint; recalibrated and re-verified before the DOE.
+NPI-2026-004,2026-10-19,NCM Line 2,J. Alvarez,2^3 factorial DOE: lamination temperature x line speed x cure time,complete,"Best corner (170 degC, 12 m/min, 45 min) averaged the highest yield across replicates. Curvature detected (center mean above factorial mean); axial follow-up recommended. See trial_report.md."
+NPI-2026-005,2026-10-28,NCM Line 2,J. Alvarez,Axial-point follow-up around DOE best setting,planned,"Curvature was detected in the DOE (p = 0.024), so face-centered axial runs will map the response surface around the best setting before scale-up."
+NPI-2026-006,2026-11-02,NCM Line 1,R. Chen,New separator material trial,running,First two lots complete; tracking edge-defect rate against the NPI-2026-004 baseline.
+NPI-2026-007,2026-11-09,NCM Line 2,M. Okafor,Cure oven profile validation (repeat),planned,Repeat of NPI-2026-003 after the zone 3 recalibration.
+NPI-2026-008,2026-11-04,NCM Line 1,J. Alvarez,Virtual inventory reconciliation pilot,running,Reconciling unaccounted-for virtual inventory on Line 1; two of five variances dispositioned so far.
+NPI-2026-009,2026-10-12,NCM Line 2,R. Chen,5S line-side audit and reset,complete,Shadow boards restocked; lamination changeover kit relocated to point of use. Changeover time down 6 min.
+NPI-2026-010,2026-11-16,NCM Line 2,M. Okafor,Second-source lamination film trial,planned,Film lots staged; trial to run at the DOE best setting once the go/no-go decision is signed off.
